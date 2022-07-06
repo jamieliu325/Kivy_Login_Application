@@ -59,8 +59,6 @@ class MainWindow(Screen):
     email = ObjectProperty(None)
     currentEmail=""
 
-    def logOut(self):
-        sm.current="login"
     # get user information display on the window
     def on_enter(self):
         password,name,created = db.get_user(self.currentEmail)
