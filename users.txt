@@ -1,3 +1,0 @@
-jamie@gmail.com;1234;jamie;2022-07-06
-ivy@gmail.com;1234;ivy;2022-07-06
-ellie@gmail.com;1234;ellie;2022-07-06
